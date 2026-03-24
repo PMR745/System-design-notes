@@ -195,6 +195,7 @@ Not to memorize solutions, but to:
 ## 5. Core Mental Model
 
 User Request → Load Balancer → Servers → Database → Response
+
 Then optimize each layer:
 - Add caching
 - Add queues
